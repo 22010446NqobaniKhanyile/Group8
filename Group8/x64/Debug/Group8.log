@@ -1,0 +1,19 @@
+﻿  LabRoom.cpp
+C:\Desktop\New One\Group8\LabRoom.cpp(115,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(115,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(129,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(129,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(136,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(136,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(146,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(146,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(211,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(212,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(215,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(216,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(243,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(244,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(251,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(252,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\New One\Group8\LabRoom.cpp(276,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Group8.vcxproj -> C:\Desktop\New One\Group8\x64\Debug\Group8.exe
